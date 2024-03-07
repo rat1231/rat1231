@@ -1,0 +1,10 @@
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\bin\Debug\n09310032 _rat1231.exe.config
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\bin\Debug\n09310032 _rat1231.exe
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\bin\Debug\n09310032 _rat1231.pdb
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Form1.resources
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.exe
+C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.pdb

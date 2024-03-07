@@ -16,5 +16,18 @@ namespace n09310032__rat1231
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btn按我啊幹等啥阿_Click(object sender, EventArgs e)
+        {
+            btn按我啊幹等啥阿.Text = "surprise mother fucker\r\n";
+
+
+
+        }
     }
 }

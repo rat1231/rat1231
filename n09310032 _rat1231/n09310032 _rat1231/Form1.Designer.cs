@@ -38,6 +38,8 @@
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.btn按我啊幹等啥阿 = new System.Windows.Forms.Button();
+            this.BTNBUTTON = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -141,11 +143,32 @@
             this.checkBox3.Text = "大冰美少冰+一顆奶球";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
+            // btn按我啊幹等啥阿
+            // 
+            this.btn按我啊幹等啥阿.Location = new System.Drawing.Point(936, 55);
+            this.btn按我啊幹等啥阿.Name = "btn按我啊幹等啥阿";
+            this.btn按我啊幹等啥阿.Size = new System.Drawing.Size(144, 63);
+            this.btn按我啊幹等啥阿.TabIndex = 10;
+            this.btn按我啊幹等啥阿.Text = "按我啊 幹等啥阿";
+            this.btn按我啊幹等啥阿.UseVisualStyleBackColor = true;
+            this.btn按我啊幹等啥阿.Click += new System.EventHandler(this.btn按我啊幹等啥阿_Click);
+            // 
+            // BTNBUTTON
+            // 
+            this.BTNBUTTON.Location = new System.Drawing.Point(936, 165);
+            this.BTNBUTTON.Name = "BTNBUTTON";
+            this.BTNBUTTON.Size = new System.Drawing.Size(144, 64);
+            this.BTNBUTTON.TabIndex = 11;
+            this.BTNBUTTON.Text = "BMI";
+            this.BTNBUTTON.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1485, 818);
+            this.Controls.Add(this.BTNBUTTON);
+            this.Controls.Add(this.btn按我啊幹等啥阿);
             this.Controls.Add(this.checkBox3);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.radioButton2);
@@ -175,6 +198,8 @@
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.Button btn按我啊幹等啥阿;
+        private System.Windows.Forms.Button BTNBUTTON;
     }
 }
 
