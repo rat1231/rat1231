@@ -1,6 +1,6 @@
 ﻿namespace n09310032__rat1231
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// 設計工具所需的變數。
@@ -180,7 +180,7 @@
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "死亡筆記本";
             this.ResumeLayout(false);
             this.PerformLayout();
 

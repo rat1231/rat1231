@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace n09310032__rat1231
 {
-    public partial class Form1 : Form
+    public partial class FormMain : Form
     {
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
         }
@@ -25,7 +25,8 @@ namespace n09310032__rat1231
         private void btn按我啊幹等啥阿_Click(object sender, EventArgs e)
         {
             btn按我啊幹等啥阿.Text = "surprise mother fucker\r\n";
-
+            Form form = new Form_button();
+            form.Show();
 
 
         }
