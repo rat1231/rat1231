@@ -40,6 +40,7 @@
             this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.btn按我啊幹等啥阿 = new System.Windows.Forms.Button();
             this.BTNBUTTON = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -162,11 +163,22 @@
             this.BTNBUTTON.Text = "BMI";
             this.BTNBUTTON.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(936, 268);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(144, 64);
+            this.button2.TabIndex = 12;
+            this.button2.Text = "輸入值";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
+            // 
+            // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1485, 818);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.BTNBUTTON);
             this.Controls.Add(this.btn按我啊幹等啥阿);
             this.Controls.Add(this.checkBox3);
@@ -179,7 +191,7 @@
             this.Controls.Add(this.monthCalendar1);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "FormMain";
             this.Text = "死亡筆記本";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -200,6 +212,7 @@
         private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.Button btn按我啊幹等啥阿;
         private System.Windows.Forms.Button BTNBUTTON;
+        private System.Windows.Forms.Button button2;
     }
 }
 

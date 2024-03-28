@@ -28,7 +28,15 @@ namespace n09310032__rat1231
             Form form = new Form_button();
             form.Show();
 
+            btn按我啊幹等啥阿.Enabled=false;
 
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Form form = new FormTextBox();
+            form.Show();
         }
     }
 }
