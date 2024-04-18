@@ -46,5 +46,15 @@ namespace n09310032__rat1231
             label7.Text = (a * b).ToString();
                 
         }
+
+        private void textBox7_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+        
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+    }
     }
 }
