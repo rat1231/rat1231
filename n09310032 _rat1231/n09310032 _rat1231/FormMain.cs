@@ -22,13 +22,13 @@ namespace n09310032__rat1231
             
         }
 
-        private void btn按我啊幹等啥阿_Click(object sender, EventArgs e)
+        private void Formbutton_Click(object sender, EventArgs e)
         {
-            btn按我啊幹等啥阿.Text = "surprise mother fucker\r\n";
+            
             Form form = new Form_button();
             form.Show();
 
-            btn按我啊幹等啥阿.Enabled=false;
+           
 
 
         }
@@ -36,6 +36,36 @@ namespace n09310032__rat1231
         private void button2_Click_1(object sender, EventArgs e)
         {
             Form form = new FormTextBox();
+            form.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form form = new Form5();
+            form.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form form = new Formtrycatch();
+            form.Show(); 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form form = new Formtimer();
+            form.Show(); 
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form = new Formgamecode();
+            form.Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form form = new Formcheckbox();
             form.Show();
         }
     }

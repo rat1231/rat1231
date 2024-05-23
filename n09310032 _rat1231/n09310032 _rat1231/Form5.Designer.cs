@@ -30,15 +30,15 @@
         {
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.label_result = new System.Windows.Forms.Button();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.Button1 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(257, 130);
+            this.label8.Location = new System.Drawing.Point(274, 130);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(149, 12);
             this.label8.TabIndex = 26;
@@ -53,23 +53,23 @@
             this.label9.TabIndex = 25;
             this.label9.Text = "華氏(f)";
             // 
-            // label_result
+            // Button1
             // 
-            this.label_result.Location = new System.Drawing.Point(177, 98);
-            this.label_result.Name = "label_result";
-            this.label_result.Size = new System.Drawing.Size(75, 23);
-            this.label_result.TabIndex = 24;
-            this.label_result.Text = "轉換";
-            this.label_result.UseVisualStyleBackColor = true;
-            this.label_result.Click += new System.EventHandler(this.button4_Click);
+            this.Button1.Location = new System.Drawing.Point(193, 125);
+            this.Button1.Name = "Button1";
+            this.Button1.Size = new System.Drawing.Size(75, 23);
+            this.Button1.TabIndex = 24;
+            this.Button1.Text = "轉換";
+            this.Button1.UseVisualStyleBackColor = true;
+            this.Button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox7
+            // textBox1
             // 
-            this.textBox7.Location = new System.Drawing.Point(165, 60);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(100, 22);
-            this.textBox7.TabIndex = 23;
-            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
+            this.textBox1.Location = new System.Drawing.Point(193, 63);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.TabIndex = 23;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
             // 
             // label10
             // 
@@ -87,8 +87,8 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.label_result);
-            this.Controls.Add(this.textBox7);
+            this.Controls.Add(this.Button1);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label10);
             this.Name = "Form5";
             this.Text = "Form5";
@@ -101,8 +101,8 @@
 
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Button label_result;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.Button Button1;
+        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label10;
     }
 }

@@ -12,3 +12,19 @@ C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n
 C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.FormTextBox.resources
 C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231._77777.resources
 C:\Users\MEGAS\Desktop\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Form5.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\bin\Debug\n09310032 _rat1231.exe.config
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\bin\Debug\n09310032 _rat1231.exe
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\bin\Debug\n09310032 _rat1231.pdb
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.csproj.AssemblyReference.cache
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Form_button.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Form5.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.FormMain.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.FormTextBox.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Formtrycatch.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Properties.Resources.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.csproj.GenerateResource.cache
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.csproj.CoreCompileInputs.cache
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.exe
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.pdb
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Formtimer.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Formgamecode.resources

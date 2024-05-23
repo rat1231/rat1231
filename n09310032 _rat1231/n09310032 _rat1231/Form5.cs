@@ -23,17 +23,11 @@ namespace n09310032__rat1231
            
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            String tmp = textBox7_input.Text;
-            Int c = Int32.Parse(tmp);
-
-            //華氏=(攝氏) * (9 / 5) + 32
-
-            double result = c * 1.8 + 32;
-            Console.WriteLine(result);
-            Console.ReadLine();
-            label_result.Text = result.ToString();
+            int a = Int32.Parse(textBox1.Text);
+            label8.Text = ((a * (9.0 / 5)) + 32).ToString() + "F";
+                       
 
         }
     }

@@ -58,6 +58,18 @@
     <Compile Include="Form5.Designer.cs">
       <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formcheckbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formcheckbox.Designer.cs">
+      <DependentUpon>Formcheckbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formgamecode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formgamecode.Designer.cs">
+      <DependentUpon>Formgamecode.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +82,18 @@
     <Compile Include="FormTextBox.Designer.cs">
       <DependentUpon>FormTextBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formtimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formtimer.Designer.cs">
+      <DependentUpon>Formtimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtrycatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formtrycatch.Designer.cs">
+      <DependentUpon>Formtrycatch.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form button.resx">
@@ -78,11 +102,23 @@
     <EmbeddedResource Include="Form5.resx">
       <DependentUpon>Form5.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formcheckbox.resx">
+      <DependentUpon>Formcheckbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formgamecode.resx">
+      <DependentUpon>Formgamecode.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTextBox.resx">
       <DependentUpon>FormTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtimer.resx">
+      <DependentUpon>Formtimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtrycatch.resx">
+      <DependentUpon>Formtrycatch.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
