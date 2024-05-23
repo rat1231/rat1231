@@ -68,5 +68,11 @@ namespace n09310032__rat1231
             Form form = new Formcheckbox();
             form.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form form = new FormMenu();
+            form.Show();
+        }
     }
 }

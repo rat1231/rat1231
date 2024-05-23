@@ -28,3 +28,5 @@ C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj
 C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032 _rat1231.pdb
 C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Formtimer.resources
 C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Formgamecode.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.Formcheckbox.resources
+C:\Users\pd964\OneDrive\桌面\rat1231\n09310032 _rat1231\n09310032 _rat1231\obj\Debug\n09310032__rat1231.FormMenu.resources
